@@ -27,7 +27,7 @@
     "react-syntax-highlighter": "^11.0.2",
     "redux": "^4.0.4",
     "redux-thunk": "^2.3.0",
-    "typescript": "3.6.4"
+    "typescript": "3.9.7"
   },
   "scripts": {
     "start": "PORT=8080 react-scripts start",
